@@ -1,7 +1,6 @@
 # pagina-web-
 @@ -1 +1,48 @@
 # PAGINA_WEB_markdown
-# PAGINA_WEB_markdown
 
 -------
 # Perfil 
@@ -12,7 +11,7 @@
 
 
 
-Hola, mi nombre es Carlos Hidalgo y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
+Hola, mi nombre es Kevin Tamayo y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
 
 
@@ -20,7 +19,7 @@ Hola, mi nombre es Carlos Hidalgo y este es mi sitio en GitHub Pages. Este sitio
 
 
 
-Soy un estudiante de la Universidad de Guayaquil. Me apasionan los videojuegos y estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
+Soy un estudiante de la Universidad de Guayaquil. Me gusta la medicina y  disfrutar un poco de los videojuegos y estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
 
 
 
@@ -36,15 +35,13 @@ Aquí hay algunos de mis proyectos más destacados:
 
 - Sistema de Gestión de Árbitros: Es un sistema que permite registrar arbitros, secretarias y presidentes para llevar un control de quién asistirá a X o Y partido.
 
-- Base de datos de la tienda "Sweet Dreams": Es una base de datos que permite gestionar el inventario de productos con los que cuenta el local comercial.
-
 
 
 ## Contacto
 
 
 
-Si desea contactarme, puede hacerlo a través de mi correo electrónico en carlos.hidalgoy@ug.edu.ec. También puede encontrarme por mi numero personal  0962580753.
+Si desea contactarme, puede hacerlo a través de mi correo electrónico en kevin.tamayof@ug.edu.ec. También puede encontrarme por mi numero personal  0989162251.
 
 
 
