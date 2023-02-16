@@ -3,8 +3,6 @@
 # PAGINA_WEB_markdown
 
 -------
-# Perfil 
-![Texto alternativo](https://avatars.githubusercontent.com/u/107194704?s=400&u=0c18a5c26cb8bdf809bb41e2d3d4f4b53564ddab&v=4)
 
 
 # Bienvenido a mi página de GitHub
