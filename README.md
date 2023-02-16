@@ -8,8 +8,8 @@
 # Bienvenido a mi página de GitHub
 
 # Perfil 
+![Texto alternativo] https://avatars.githubusercontent.com/u/77493839?s=400&u=447db2757ec18c361df7b78148b1a076a9325100&v=4
 
-![Texto alternativo](https://avatars.githubusercontent.com/u/107194704?s=400&u=0c18a5c26cb8bdf809bb41e2d3d4f4b53564ddab&v=4)
 
 
 Hola, mi nombre es Kevin Tamayo y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
