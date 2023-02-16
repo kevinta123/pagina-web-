@@ -8,7 +8,7 @@
 # Bienvenido a mi página de GitHub
 
 # Perfil 
-![Texto alternativo] https://avatars.githubusercontent.com/u/77493839?s=400&u=447db2757ec18c361df7b78148b1a076a9325100&v=4
+![Texto alternativo](https://avatars.githubusercontent.com/u/77493839?s=400&u=447db2757ec18c361df7b78148b1a076a9325100&v=4)
 
 
 
